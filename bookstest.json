@@ -1879,5 +1879,86 @@
     "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/X2 Ka Raaz By Zaheer Ahmed-scan com.png",
     "bookauthor": "ظہیر احمد",
     "downloadsize": "30.96"
+  },
+  {
+    "filename": "/CrossBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/CrossBTIS.pdf",
+    "bookname": "Cross Fire",
+    "booktitle": "کراس فائر",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/CrossBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "3.8"
+  },
+  {
+    "filename": "/DevtaBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/DevtaBTIS.pdf",
+    "bookname": "Devta ki Mout",
+    "booktitle": "دیوتا کی موت",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/DevtaBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "2.4"
+  },
+  {
+    "filename": "/FararBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/FararBTIS.pdf",
+    "bookname": "Farar k Bad",
+    "booktitle": "فرار کے بعد",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/FararBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "3.3"
+  },
+  {
+    "filename": "/JasoosBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/JasoosBTIS.pdf",
+    "bookname": "Jasoos Kaisy Banta hy",
+    "booktitle": "جاسوس کیسے بنتا ہے",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/JasoosBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "5.1"
+  },
+  {
+    "filename": "/KohsaronBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/KohsaronBTIS.pdf",
+    "bookname": "Kohsaron Ki Aag",
+    "booktitle": "کہساروں کی آگ",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/KohsaronBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "5"
+  },
+  {
+    "filename": "/MosafatBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/MosafatBTIS.pdf",
+    "bookname": "Mosafat",
+    "booktitle": "مسافت",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/MosafatBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "2.5"
+  },
+  {
+    "filename": "/SazishBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/SazishBTIS.pdf",
+    "bookname": "Sazish",
+    "booktitle": "سازش",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/SazishBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "7.1"
+  },
+  {
+    "filename": "/ShekanjaBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/ShekanjaBTIS.pdf",
+    "bookname": "Shikanja",
+    "booktitle": "شکنجہ",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/ShekanjaBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "2.7"
+  },
+  {
+    "filename": "/ShimlayBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/ShimlayBTIS.pdf",
+    "bookname": "Shimlay Ka Sawami",
+    "booktitle": "شملے کا سوامی",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/ShimlayBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "3.7"
   }
 ]
