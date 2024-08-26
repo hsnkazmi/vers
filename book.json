@@ -1177,5 +1177,788 @@
     "bookimage": "https://archive.org/services/img/KalyGhaatWali",
     "bookauthor": "ایم اے راحت",
     "downloadsize": "11.8"
+  },
+  {
+    "filename": "/Action Agents By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Action Agents By ZA (UrduReadings.com).pdf",
+    "bookname": "Action Agents",
+    "booktitle": "ایکشن ایجنٹس",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Action Agents By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "7"
+  },
+  {
+    "filename": "/Action Mission By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Action Mission By ZA (UrduReadings.com).pdf",
+    "bookname": "Action Mission",
+    "booktitle": "ایکشن مشن",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Action Mission By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "9.77"
+  },
+  {
+    "filename": "/Agnet Lee Hog By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Agnet Lee Hog By ZA (UrduReadings.com).pdf",
+    "bookname": "Agent Lee Hog",
+    "booktitle": "ایجنٹ لی ہوگ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Agnet Lee Hog By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "14.12"
+  },
+  {
+    "filename": "/Anata By ZA (UrduReadings.com)_unlocked 1.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Anata By ZA (UrduReadings.com)_unlocked 1.pdf",
+    "bookname": "Anata",
+    "booktitle": "اناتا",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Anata By ZA (UrduReadings.com)_unlocked 1.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.13"
+  },
+  {
+    "filename": "/Ankal By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Ankal By ZA (UrduReadings.com).pdf",
+    "bookname": "Anqaal",
+    "booktitle": "عنقال",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Ankal By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "16.74"
+  },
+  {
+    "filename": "/Aqaram Pt. 1+2  By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Aqaram Pt. 1+2  By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Aqaaram",
+    "booktitle": "عقارم",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Aqaram Pt. 1+2  By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.95"
+  },
+  {
+    "filename": "/Asaibi Dunya Pt. 1 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Asaibi Dunya Pt. 1 By ZA (UrduReadings.com).pdf",
+    "bookname": "Aasaibi Duniya 1",
+    "booktitle": "آسیبی دنیا 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Asaibi Dunya Pt. 1 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.43"
+  },
+  {
+    "filename": "/Asaibi Dunya Pt. 2 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Asaibi Dunya Pt. 2 By ZA (UrduReadings.com).pdf",
+    "bookname": "Aasaibi Duniya 2",
+    "booktitle": "آسیبی دنیا 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Asaibi Dunya Pt. 2 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.37"
+  },
+  {
+    "filename": "/Big Brothers By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Big Brothers By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Big Brothers",
+    "booktitle": "بگ برادرز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Big Brothers By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.83"
+  },
+  {
+    "filename": "/Black Girl By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Black Girl By ZA (UrduReadings.com).pdf",
+    "bookname": "Black Girl",
+    "booktitle": "بلیک گرل",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Black Girl By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.84"
+  },
+  {
+    "filename": "/Challenge Fight By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Challenge Fight By ZA (UrduReadings.com).pdf",
+    "bookname": "Challenge Fight",
+    "booktitle": "چیلنج فائٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Challenge Fight By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "10.08"
+  },
+  {
+    "filename": "/Copper Head By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Copper Head By ZA (UrduReadings.com).pdf",
+    "bookname": "Copper Head",
+    "booktitle": "کاپر ہیڈ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Copper Head By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.4"
+  },
+  {
+    "filename": "/Crime City By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Crime City By ZA (UrduReadings.com).pdf",
+    "bookname": "Crime City",
+    "booktitle": "کرائم سٹی",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Crime City By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.98"
+  },
+  {
+    "filename": "/Crystal Bullet By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Crystal Bullet By ZA (UrduReadings.com).pdf",
+    "bookname": "Crystal Bullet",
+    "booktitle": "کرسٹل بلیٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Crystal Bullet By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.29"
+  },
+  {
+    "filename": "/Daner Prince By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Daner Prince By ZA (UrduReadings.com).pdf",
+    "bookname": "Danger Prince",
+    "booktitle": "ڈینجر پرنس",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Daner Prince By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "11.7"
+  },
+  {
+    "filename": "/Danger Five By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Danger Five By ZA (UrduReadings.com).pdf",
+    "bookname": "Danger Five",
+    "booktitle": "ڈینجر فائیو",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Danger Five By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "5.38"
+  },
+  {
+    "filename": "/Dangerous Juliana By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Dangerous Juliana By ZA (UrduReadings.com).pdf",
+    "bookname": "Dangerous Juliana",
+    "booktitle": "ڈینجرس جولیانا",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Dangerous Juliana By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "15.59"
+  },
+  {
+    "filename": "/Dark Agency By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark Agency By ZA (UrduReadings.com).pdf",
+    "bookname": "Dark Agency",
+    "booktitle": "ڈارک ایجنسی",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark Agency By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.67"
+  },
+  {
+    "filename": "/Dark Camp By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark Camp By ZA (UrduReadings.com).pdf",
+    "bookname": "Dark Camp",
+    "booktitle": "ڈارک کیمپ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark Camp By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "9.47"
+  },
+  {
+    "filename": "/Dark King By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark King By ZA (UrduReadings.com).pdf",
+    "bookname": "Dark King",
+    "booktitle": "ڈارک کنگ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark King By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "16.64"
+  },
+  {
+    "filename": "/Dark Knight By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark Knight By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Dark Knight",
+    "booktitle": "ڈارک نائٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Dark Knight By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "24.3"
+  },
+  {
+    "filename": "/Devil Mind By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Devil Mind By ZA (UrduReadings.com).pdf",
+    "bookname": "Devil Mind",
+    "booktitle": "ڈیول مائنڈ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Devil Mind By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "13.51"
+  },
+  {
+    "filename": "/Diamond Blaster By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Blaster By ZA (UrduReadings.com).pdf",
+    "bookname": "Diamond Blaster",
+    "booktitle": "ڈائمنڈ بلاسٹر",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Blaster By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "7.86"
+  },
+  {
+    "filename": "/Diamond Heart By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Heart By ZA (UrduReadings.com).pdf",
+    "bookname": "Diamond Heart",
+    "booktitle": "ڈائمنڈ ہارٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Heart By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.58"
+  },
+  {
+    "filename": "/Diamond Mission Pt. 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Mission Pt. 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Diamond Mission 1",
+    "booktitle": "ڈائمنڈ مشن 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Mission Pt. 1 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "29.25"
+  },
+  {
+    "filename": "/Diamond Mission Pt. 2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Mission Pt. 2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Diamond Mission 2",
+    "booktitle": "ڈائمنڈ مشن 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Diamond Mission Pt. 2 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "29.35"
+  },
+  {
+    "filename": "/Evil Crime By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Evil Crime By ZA (UrduReadings.com).pdf",
+    "bookname": "Evil Crime",
+    "booktitle": "ایول کرائم",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Evil Crime By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "5.33"
+  },
+  {
+    "filename": "/Eye Balls By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Eye Balls By ZA (UrduReadings.com).pdf",
+    "bookname": "Eye Balls",
+    "booktitle": "آئی بالز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Eye Balls By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.75"
+  },
+  {
+    "filename": "/Fast Fight By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Fast Fight By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Fast Fight",
+    "booktitle": "فاسٹ فائٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Fast Fight By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.64"
+  },
+  {
+    "filename": "/Firasko Headquarters By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Firasko Headquarters By ZA (UrduReadings.com).pdf",
+    "bookname": "Firasko HeadQuarters",
+    "booktitle": "فیراسکو ہیڈکوارٹرز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Firasko Headquarters By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "8.34"
+  },
+  {
+    "filename": "/Four Kings 1+2 By Zaheer Ahmad.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Four Kings 1+2 By Zaheer Ahmad.pdf",
+    "bookname": "Four Kings",
+    "booktitle": "فور کنگز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Four Kings 1+2 By Zaheer Ahmad.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "12.17"
+  },
+  {
+    "filename": "/G4 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/G4 By ZA (UrduReadings.com).pdf",
+    "bookname": "G4",
+    "booktitle": "جی فور",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/G4 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.31"
+  },
+  {
+    "filename": "/Gang War By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Gang War By ZA (UrduReadings.com).pdf",
+    "bookname": "Gang War",
+    "booktitle": "گینگ وار",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Gang War By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "7.05"
+  },
+  {
+    "filename": "/Golden Crystal By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Golden Crystal By ZA (UrduReadings.com).pdf",
+    "bookname": "Golden Crystal",
+    "booktitle": "گولڈن کرسٹل",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Golden Crystal By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "9.46"
+  },
+  {
+    "filename": "/Great Adventure By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Great Adventure By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Great Adventure",
+    "booktitle": "گریٹ ایڈونچر",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Great Adventure By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "11.71"
+  },
+  {
+    "filename": "/Great Circle By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Great Circle By ZA (UrduReadings.com).pdf",
+    "bookname": "Great Circle",
+    "booktitle": "گریٹ سرکل",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Great Circle By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.51"
+  },
+  {
+    "filename": "/Great Plan By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Great Plan By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Great Plan",
+    "booktitle": "گریٹ پلان",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Great Plan By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4"
+  },
+  {
+    "filename": "/Green Virus By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Green Virus By ZA (UrduReadings.com).pdf",
+    "bookname": "Green Virus",
+    "booktitle": "گرین وائرس",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Green Virus By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "10.46"
+  },
+  {
+    "filename": "/Half Face 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Half Face 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Half Face 1",
+    "booktitle": "ہاف فیس 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Half Face 1 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.55"
+  },
+  {
+    "filename": "/Half Face 2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Half Face 2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Half Face 2",
+    "booktitle": "ہاف فیس 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Half Face 2 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.29"
+  },
+  {
+    "filename": "/Hard Section By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Hard Section By ZA (UrduReadings.com).pdf",
+    "bookname": "Hard Section",
+    "booktitle": "ہارڈ سیکشن",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Hard Section By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.21"
+  },
+  {
+    "filename": "/Harnet (Hornet) By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Harnet (Hornet) By ZA (UrduReadings.com).pdf",
+    "bookname": "Harnet",
+    "booktitle": "ہارنٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Harnet (Hornet) By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.26"
+  },
+  {
+    "filename": "/Iblasha By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Iblasha By ZA (UrduReadings.com).pdf",
+    "bookname": "Iblaasha",
+    "booktitle": "ابلاشا",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Iblasha By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.85"
+  },
+  {
+    "filename": "/Madam She By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Madam She By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Madam She",
+    "booktitle": "میڈم شی",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Madam She By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.38"
+  },
+  {
+    "filename": "/Makasho By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Makasho By ZA (UrduReadings.com).pdf",
+    "bookname": "Makashoo",
+    "booktitle": "مکاشو",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Makasho By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.57"
+  },
+  {
+    "filename": "/Mission Sai Gan By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Mission Sai Gan By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Mission Sai Gaan",
+    "booktitle": "مشن سائ گان",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Mission Sai Gan By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.67"
+  },
+  {
+    "filename": "/Mout Ka Saya By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Mout Ka Saya By ZA (UrduReadings.com).pdf",
+    "bookname": "Mout Ka Saya",
+    "booktitle": "موت کا سایہ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Mout Ka Saya By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.71"
+  },
+  {
+    "filename": "/Mujrim X2 By By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Mujrim X2 By By ZA (UrduReadings.com).pdf",
+    "bookname": "Mujrim X2",
+    "booktitle": "مجرم ایکس 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Mujrim X2 By By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.19"
+  },
+  {
+    "filename": "/One Two Three By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/One Two Three By ZA (UrduReadings.com).pdf",
+    "bookname": "One Two Three",
+    "booktitle": "ون ٹو تھری",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/One Two Three By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "9.52"
+  },
+  {
+    "filename": "/Operation High Risk By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Operation High Risk By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Operation High Risk",
+    "booktitle": "آپریشن ہائی رسک",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Operation High Risk By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "1.93"
+  },
+  {
+    "filename": "/Perfect Crime By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Perfect Crime By ZA (UrduReadings.com).pdf",
+    "bookname": "Perfect Crime",
+    "booktitle": "پرفیکٹ کرائم",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Perfect Crime By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "5.39"
+  },
+  {
+    "filename": "/Power Of X2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Power Of X2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Power of X2",
+    "booktitle": "پاور آف ایکس 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Power Of X2 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.58"
+  },
+  {
+    "filename": "/Power Play By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Power Play By ZA (UrduReadings.com).pdf",
+    "bookname": "Power Play",
+    "booktitle": "پاور پلے",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Power Play By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "10.88"
+  },
+  {
+    "filename": "/Red Hawk By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Hawk By ZA (UrduReadings.com).pdf",
+    "bookname": "Red Hawk",
+    "booktitle": "ریڈ ہاک",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Hawk By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "8.56"
+  },
+  {
+    "filename": "/Red Masters By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Masters By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Red Masters",
+    "booktitle": "ریڈ ماسٹرز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Masters By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.67"
+  },
+  {
+    "filename": "/Red Spider Pt. 1 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Spider Pt. 1 By ZA (UrduReadings.com).pdf",
+    "bookname": "Red Spider 1",
+    "booktitle": "ریڈ اسپائڈر 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Spider Pt. 1 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.89"
+  },
+  {
+    "filename": "/Red Spider Pt. 2 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Spider Pt. 2 By ZA (UrduReadings.com).pdf",
+    "bookname": "Red Spider 2",
+    "booktitle": "ریڈ اسپائڈر 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Spider Pt. 2 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.56"
+  },
+  {
+    "filename": "/Red Stone By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Stone By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Red Stone",
+    "booktitle": "ریڈ سٹون",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Red Stone By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "6.36"
+  },
+  {
+    "filename": "/Saadaal Plan By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Saadaal Plan By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Sadaal Plan",
+    "booktitle": "صادال پلان",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Saadaal Plan By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "5.96"
+  },
+  {
+    "filename": "/Saka Kara By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Saka Kara By ZA (UrduReadings.com).pdf",
+    "bookname": "Saka Kara",
+    "booktitle": "ساکا کرا",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Saka Kara By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.97"
+  },
+  {
+    "filename": "/Sakal Pt. 1 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Sakal Pt. 1 By ZA (UrduReadings.com).pdf",
+    "bookname": "Sakaal 1",
+    "booktitle": "ساکال 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Sakal Pt. 1 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "7.05"
+  },
+  {
+    "filename": "/Sakal Pt. 2 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Sakal Pt. 2 By ZA (UrduReadings.com).pdf",
+    "bookname": "Sakaal 2",
+    "booktitle": "ساکال 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Sakal Pt. 2 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "7.84"
+  },
+  {
+    "filename": "/Sea Shark By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Sea Shark By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Sea Shark",
+    "booktitle": "سی شارک",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Sea Shark By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "16.05"
+  },
+  {
+    "filename": "/Sea world 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Sea world 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Sea World 1",
+    "booktitle": "سی ورلڈ 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Sea world 1 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.26"
+  },
+  {
+    "filename": "/Sea world 2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Sea world 2 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Sea World 2",
+    "booktitle": "سی ورلڈ 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Sea world 2 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.27"
+  },
+  {
+    "filename": "/Secert Hands By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Secert Hands By ZA (UrduReadings.com).pdf",
+    "bookname": "Secret Hands",
+    "booktitle": "سیکرٹ ہینڈز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Secert Hands By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "5.08"
+  },
+  {
+    "filename": "/Silver Power By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Silver Power By ZA (UrduReadings.com).pdf",
+    "bookname": "Silver power",
+    "booktitle": "سلور پاور",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Silver Power By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.83"
+  },
+  {
+    "filename": "/Siyah Chehra By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Siyah Chehra By ZA (UrduReadings.com).pdf",
+    "bookname": "Siyah Chehra",
+    "booktitle": "سیاہ چہرہ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Siyah Chehra By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "4.44"
+  },
+  {
+    "filename": "/Snake Point By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Snake Point By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Sneak Point",
+    "booktitle": "سنیک پوائنٹ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Snake Point By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.7"
+  },
+  {
+    "filename": "/Special Killers By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Special Killers By ZA (UrduReadings.com).pdf",
+    "bookname": "Special Killers",
+    "booktitle": "اسپیشل کلرز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Special Killers By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.2"
+  },
+  {
+    "filename": "/Surkh Qayamat Pt. 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Surkh Qayamat Pt. 1 By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Surkh Qayamat 1",
+    "booktitle": "سرخ قیامت 1",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Surkh Qayamat Pt. 1 By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.59"
+  },
+  {
+    "filename": "/Surkh Qayamat Pt. 2 By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Surkh Qayamat Pt. 2 By ZA (UrduReadings.com).pdf",
+    "bookname": "Surkh Qayamat 2",
+    "booktitle": "سرخ قیامت 2",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Surkh Qayamat Pt. 2 By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "3.93"
+  },
+  {
+    "filename": "/Time Killer By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Time Killer By ZA (UrduReadings.com).pdf",
+    "bookname": "Time Killer",
+    "booktitle": "ٹائم کلر",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Time Killer By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "9.5"
+  },
+  {
+    "filename": "/Top Challenge By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Top Challenge By ZA (UrduReadings.com).pdf",
+    "bookname": "Top Challenge",
+    "booktitle": "ٹاپ چیلنج",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Top Challenge By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.84"
+  },
+  {
+    "filename": "/Up Down By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/Up Down By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "Up Down",
+    "booktitle": "اپ ڈاؤن",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/Up Down By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "5.65"
+  },
+  {
+    "filename": "/White Blood By ZA (UrduReadings.com)_unlocked.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/White Blood By ZA (UrduReadings.com)_unlocked.pdf",
+    "bookname": "White Blood",
+    "booktitle": "وائٹ بلڈ",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/White Blood By ZA (UrduReadings.com)_unlocked.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "2.59"
+  },
+  {
+    "filename": "/White Cobra + Crossty in Action By ZA (UrduReadings.com).pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/White Cobra + Crossty in Action By ZA (UrduReadings.com).pdf",
+    "bookname": "White Cobra & Crosty in Action",
+    "booktitle": "وائٹ کوبرا اور کروستی ان ایکشن",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/White Cobra + Crossty in Action By ZA (UrduReadings.com).png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "6.34"
+  },
+  {
+    "filename": "/X2 Ka Raaz By Zaheer Ahmed-scan com.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/X2 Ka Raaz By Zaheer Ahmed-scan com.pdf",
+    "bookname": "X2 Ka Raaz",
+    "booktitle": "ایکس 2 کا راز",
+    "bookimage": "https://ia801201.us.archive.org/10/items/sazish-btis/X2 Ka Raaz By Zaheer Ahmed-scan com.png",
+    "bookauthor": "ظہیر احمد",
+    "downloadsize": "30.96"
+  },
+  {
+    "filename": "/CrossBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/CrossBTIS.pdf",
+    "bookname": "Cross Fire",
+    "booktitle": "کراس فائر",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/CrossBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "3.8"
+  },
+  {
+    "filename": "/DevtaBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/DevtaBTIS.pdf",
+    "bookname": "Devta ki Mout",
+    "booktitle": "دیوتا کی موت",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/DevtaBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "2.4"
+  },
+  {
+    "filename": "/FararBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/FararBTIS.pdf",
+    "bookname": "Farar k Bad",
+    "booktitle": "فرار کے بعد",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/FararBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "3.3"
+  },
+  {
+    "filename": "/JasoosBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/JasoosBTIS.pdf",
+    "bookname": "Jasoos Kaisy Banta hy",
+    "booktitle": "جاسوس کیسے بنتا ہے",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/JasoosBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "5.1"
+  },
+  {
+    "filename": "/KohsaronBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/KohsaronBTIS.pdf",
+    "bookname": "Kohsaron Ki Aag",
+    "booktitle": "کہساروں کی آگ",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/KohsaronBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "5"
+  },
+  {
+    "filename": "/MosafatBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/MosafatBTIS.pdf",
+    "bookname": "Mosafat",
+    "booktitle": "مسافت",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/MosafatBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "2.5"
+  },
+  {
+    "filename": "/SazishBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/SazishBTIS.pdf",
+    "bookname": "Sazish",
+    "booktitle": "سازش",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/SazishBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "7.1"
+  },
+  {
+    "filename": "/ShekanjaBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/ShekanjaBTIS.pdf",
+    "bookname": "Shikanja",
+    "booktitle": "شکنجہ",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/ShekanjaBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "2.7"
+  },
+  {
+    "filename": "/ShimlayBTIS.pdf",
+    "url": "https://ia801201.us.archive.org/10/items/sazish-btis/ShimlayBTIS.pdf",
+    "bookname": "Shimlay Ka Sawami",
+    "booktitle": "شملے کا سوامی",
+    "bookimage": "https://ia600600.us.archive.org/32/items/abd1_20240730/ShimlayBTIS.png",
+    "bookauthor": "طارق اسمٰعیل ساگر",
+    "downloadsize": "3.7"
   }
 ]
